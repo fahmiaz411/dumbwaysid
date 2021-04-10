@@ -1,5 +1,5 @@
 Untuk project laravel terpaksa menggunakan zip,
-karna terkendala error etika push project ke github
+karna terkendala error ketika push project ke github
 
 Software & framework:
 1. VSCode Text Editor
